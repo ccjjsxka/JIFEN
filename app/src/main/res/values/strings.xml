@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JIFEN</string>
+    <string name="buttton1">+3 PONITS</string>
+    <string name="button2">+2 POINTS</string>
+    <string name="button3">FREE THROW</string>
+    <string name="texta1">TeamA</string>
+    <string name="textb1">TeamB</string>
+    <string name="texta2">0</string>
+    <string name="textb2">0</string>
+    <string name="button">RESET</string>
+</resources>
